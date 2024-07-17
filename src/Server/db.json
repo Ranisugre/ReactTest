@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "Name": "xyz",
+      "location": "pune"
+    },
+    {
+      "id": "81a6",
+      "name": "Reading",
+      "date": "2024-07-03",
+      "location": "Hyderabad"
+    }
+  ]
+}
